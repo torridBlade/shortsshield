@@ -44,7 +44,7 @@ A free, open-source desktop application for Linux that revolutionizes your YouTu
 ### Quick Install
 
 ```bash
-git clone https://github.com/yourusername/shortsshield.git
+git clone https://github.com/torridBlade/shortsshield.git
 cd shortsshield
 chmod +x install.sh
 ./install.sh
@@ -154,7 +154,7 @@ We welcome contributions! Here's how to help:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/shortsshield.git
+git clone https://github.com/torridBlade/shortsshield.git
 cd shortsshield
 python3 shorts-facts.py  # Run directly for development
 ```

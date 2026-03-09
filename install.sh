@@ -5,7 +5,7 @@
 set -e
 
 VERSION="1.0.0"
-REPO_URL="https://github.com/yourusername/shortsshield"
+REPO_URL="https://github.com/torridBlade/shortsshield"
 
 echo "╔══════════════════════════════════════════════════════════════╗"
 echo "║           ShortsShield v${VERSION} - Linux Installer            ║"
